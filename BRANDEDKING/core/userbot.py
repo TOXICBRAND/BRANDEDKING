@@ -51,7 +51,7 @@ class Userbot(Client):
         if config.STRING1:
             await self.one.start()
             try:
-                await self.one.join_chat("TEL_EGRAM_WALI_MAST")
+                await self.one.join_chat("MID_NIGHT_WORLD")
                 await self.one.join_chat("MR_ZEHER_TAJ")
                 await self.one.join_chat("LOVE_YOU_ZINDAGI3")
             except:
@@ -73,7 +73,7 @@ class Userbot(Client):
         if config.STRING2:
             await self.two.start()
             try:
-                await self.two.join_chat("TEL_EGRAM_WALI_MAST")
+                await self.two.join_chat("MID_NIGHT_WORLD")
                 await self.two.join_chat("MR_ZEHER_TAJ")
                 await self.one.join_chat("LOVE_YOU_ZINDAGI3")
             except:
@@ -95,7 +95,7 @@ class Userbot(Client):
         if config.STRING3:
             await self.three.start()
             try:
-                await self.three.join_chat("TEL_EGRAM_WALI_MAST")
+                await self.three.join_chat("MID_NIGHT_WORLD")
                 await self.three.join_chat("MR_ZEHER_TAJ")
                 await self.one.join_chat("LOVE_YOU_ZINDAGI3")
             except:
@@ -117,7 +117,7 @@ class Userbot(Client):
         if config.STRING4:
             await self.four.start()
             try:
-                await self.four.join_chat("TEL_EGRAM_WALI_MAST")
+                await self.four.join_chat("MID_NIGHT_WORLD")
                 await self.four.join_chat("MR_ZEHER_TAJ")
                 await self.one.join_chat("LOVE_YOU_ZINDAGI3")
             except:
@@ -139,7 +139,7 @@ class Userbot(Client):
         if config.STRING5:
             await self.five.start()
             try:
-                await self.five.join_chat("TEL_EGRAM_WALI_MAST")
+                await self.five.join_chat("MID_NIGHT_WORLD")
                 await self.five.join_chat("MR_ZEHER_TAJ")
                 await self.one.join_chat("LOVE_YOU_ZINDAGI3")
             except:
