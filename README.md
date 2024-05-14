@@ -31,11 +31,11 @@ Get the [Necessary Variables](#Necessary-Variables) and then click the button be
 
 🔴「 𝗜𝗙 𝗔𝗡𝗬 𝗘𝗥𝗥𝗢𝗥 𝗧𝗛𝗘𝗡 𝗦𝗘𝗡𝗗 𝗦𝗦 𝗧𝗢 𝗗𝗠 」🔴
 <p align="center">
-<a href="https://t.me/MID_NIGHT_WORLD"><img src="https://img.shields.io/badge/-☆𝐃𝐌 𝐓𝐎 𝗕𝗥𝗔𝗡𝗗𝗘𝗗 𓆩🇽𓆪 𝗪𝗢𝗥𝗟𝗗%20☆-blue.svg?style=for-the-badge&logo=Telegram"></a>
+<a href="https://t.me/+bJfiVtT9Ow4wNDE1"><img src="https://img.shields.io/badge/-☆𝐃𝐌 𝐓𝐎 𝗕𝗥𝗔𝗡𝗗𝗘𝗗 𓆩🇽𓆪 𝗪𝗢𝗥𝗟𝗗%20☆-blue.svg?style=for-the-badge&logo=Telegram"></a>
 </p>
 <h3 align="center">
 
-![logo](https://te.legra.ph/file/e545cecbd06581d1a98f3.jpg)
+![logo](https://telegra.ph/file/83ba36fcaa53f1c39cbd7.jpg)
 
 ━━━━━━━━━━━━
 
