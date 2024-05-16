@@ -1,5 +1,5 @@
 ━━━━━━━━━━━━━━━━━━━━
-# 𝗕𝗥𝗔𝗡𝗗𝗘𝗗 𝓧 𝗞𝗜𝗡𝗚
+# ERROR 𝓧 𝗞𝗜𝗡𝗚
 
 ━━━━━━━━━━━━━━━━━━━━
 ### 🌷𝐕𝐈𝐒𝐈𝐓𝐎𝐑𝐒🌷
@@ -11,7 +11,7 @@
 [![Forks](https://img.shields.io/github/forks/TGMBBRAND/BRANDEDKING?style=flat-square&color=orange)](https://github.com/TGMBBRAND/BRANDEDKING/fork)
 
 
-![logo](https://telegra.ph/file/c49df2081c630ea5b2fa2.jpg)
+![logo](https://telegra.ph/file/a3b81105018e8cf842c5f.jpg)
 
 <img src="https://readme-typing-svg.herokuapp.com?color=F77247&width=980&lines=This+Project+Is+Inspired+On+The+Hard+Work+Branded+Network%E2%9D%A4%EF%B8%8F">
 </p>
@@ -31,11 +31,11 @@ Get the [Necessary Variables](#Necessary-Variables) and then click the button be
 
 🔴「 𝗜𝗙 𝗔𝗡𝗬 𝗘𝗥𝗥𝗢𝗥 𝗧𝗛𝗘𝗡 𝗦𝗘𝗡𝗗 𝗦𝗦 𝗧𝗢 𝗗𝗠 」🔴
 <p align="center">
-<a href="https://t.me/+OUGD523K--8yOWRl"><img src="https://img.shields.io/badge/-☆𝐃𝐌 𝐓𝐎 𝗕𝗥𝗔𝗡𝗗𝗘𝗗 𓆩🇽𓆪 𝗪𝗢𝗥𝗟𝗗%20☆-blue.svg?style=for-the-badge&logo=Telegram"></a>
+<a href="https://t.me/MID_NIGHT_WORLD"><img src="https://img.shields.io/badge/-☆𝐃𝐌 𝐓𝐎 𝗕𝗥𝗔𝗡𝗗𝗘𝗗 𓆩🇽𓆪 𝗪𝗢𝗥𝗟𝗗%20☆-blue.svg?style=for-the-badge&logo=Telegram"></a>
 </p>
 <h3 align="center">
 
-![logo](https://telegra.ph/file/c49df2081c630ea5b2fa2.jpg)
+![logo](https://telegra.ph/file/a3b81105018e8cf842c5f.jpg)
 
 ━━━━━━━━━━━━
 
