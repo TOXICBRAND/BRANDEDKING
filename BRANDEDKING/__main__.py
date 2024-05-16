@@ -50,11 +50,11 @@ async def init():
         pass
     await BRANDED.decorators()
     LOGGER("BRANDEDKING").info(
-        "BRANDED Music Bot Started Successfully"
+        "ERROR Music Bot Started Successfully"
     )
     await idle()
     await app.stop()
-    LOGGER("BRANDEDKING").info("Stopping BRANDED Music Bot...")
+    LOGGER("BRANDEDKING").info("Stopping ERROR Music Bot...")
 
 
 if __name__ == "__main__":
