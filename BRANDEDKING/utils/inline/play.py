@@ -68,7 +68,7 @@ def stream_markup_timer(_, chat_id, played, dur):
         ],
         [
             InlineKeyboardButton(
-                text="😏 🅔🅡🅡🅞🅡 ", url="https://t.me/MR_TOXIC_BGMI",
+                text="😏 ᴇʀʀᴏʀ ", url="https://t.me/MR_TOXIC_BGMI",
             ),
             InlineKeyboardButton(
                 text="sᴜᴘᴘᴏʀᴛ 💌", url="https://t.me/ERROR_MUSIC_WORLD",
@@ -98,7 +98,7 @@ def stream_markup(_, chat_id):
         ],
         [
             InlineKeyboardButton(
-                text="😏 🅔🅡🅡🅞🅡 ", url="https://t.me/MR_TOXIC_BGMI",
+                text="😏 ᴇʀʀᴏʀ ", url="https://t.me/MR_TOXIC_BGMI",
             ),
             InlineKeyboardButton(
                 text="sᴜᴘᴘᴏʀᴛ 💌", url="https://t.me/ERROR_MUSIC_WORLD",
