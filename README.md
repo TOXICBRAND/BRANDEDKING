@@ -11,7 +11,7 @@
 [![Forks](https://img.shields.io/github/forks/TGMBBRAND/BRANDEDKING?style=flat-square&color=orange)](https://github.com/TGMBBRAND/BRANDEDKING/fork)
 
 
-![logo](https://telegra.ph/file/3a5762656a8719d3ec52f.jpg)
+![logo](https://telegra.ph/file/c49df2081c630ea5b2fa2.jpg)
 
 <img src="https://readme-typing-svg.herokuapp.com?color=F77247&width=980&lines=This+Project+Is+Inspired+On+The+Hard+Work+Branded+Network%E2%9D%A4%EF%B8%8F">
 </p>
@@ -35,7 +35,7 @@ Get the [Necessary Variables](#Necessary-Variables) and then click the button be
 </p>
 <h3 align="center">
 
-![logo](https://telegra.ph/file/3a5762656a8719d3ec52f.jpg)
+![logo](https://telegra.ph/file/c49df2081c630ea5b2fa2.jpg)
 
 ━━━━━━━━━━━━
 
