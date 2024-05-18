@@ -71,7 +71,7 @@ def stream_markup_timer(_, chat_id, played, dur):
                 text="❤️‍🔥 ᴇʀʀᴏʀ", url="https://t.me/MR_TOXIC_BGMI",
             ),
             InlineKeyboardButton(
-                text="sᴜᴘᴘᴏʀᴛ 💌", url="https://t.me/ERROR_MUSIC_WORLD",
+                text="sᴜᴘᴘᴏʀᴛ 💌", url="https://t.me/+meXeNkLlZahiMWVl",
             ),
         ],
         [
@@ -79,7 +79,7 @@ def stream_markup_timer(_, chat_id, played, dur):
                  text="🌹 sᴏᴜʀᴄᴇ 🌹", url=f"https://github.com/TOXICBRAND/BRANDEDKING",
             ),
             InlineKeyboardButton(
-                text="🦋ᴄʜᴀɴɴᴇʟ", url=f"https://t.me/ERROR_MUSIC_WORLD",
+                text="🦋ᴄʜᴀɴɴᴇʟ", url=f"https://t.me/+meXeNkLlZahiMWVl",
             ),
         ],
         [InlineKeyboardButton(text=_["CLOSE_BUTTON"], callback_data="close")],
@@ -101,7 +101,7 @@ def stream_markup(_, chat_id):
                 text="❤️‍🔥 ᴇʀʀᴏʀ", url="https://t.me/MR_TOXIC_BGMI",
             ),
             InlineKeyboardButton(
-                text="sᴜᴘᴘᴏʀᴛ 💌", url="https://t.me/ERROR_MUSIC_WORLD",
+                text="sᴜᴘᴘᴏʀᴛ 💌", url="https://t.me/+meXeNkLlZahiMWVl",
             ),
         ],
         [
@@ -109,7 +109,7 @@ def stream_markup(_, chat_id):
                 text="🌹 sᴏᴜʀᴄᴇ 🌹", url=f"https://github.com/TOXICBRAND/BRANDEDKING",
             ),
             InlineKeyboardButton(
-                text="🦋 ᴄʜᴀɴɴᴇʟ", url=f"https://t.me/ERROR_MUSIC_WORLD",
+                text="🦋 ᴄʜᴀɴɴᴇʟ", url=f"https://t.me/+meXeNkLlZahiMWVl",
             ),
         ],
         [InlineKeyboardButton(text=_["CLOSE_BUTTON"], callback_data="close")],
