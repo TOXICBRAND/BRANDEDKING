@@ -68,10 +68,10 @@ def stream_markup_timer(_, chat_id, played, dur):
         ],
         [
             InlineKeyboardButton(
-                text="☙ ɴɪᴄᴋ", url="https://t.me/MR_TOXIC_BGMI",
+                text="☙ ɴɪᴄᴋ", url="https://t.me/HAUNTED_NICK",
             ),
             InlineKeyboardButton(
-                text="sᴜᴘᴘᴏʀᴛ ☚", url="https://t.me/+0cccP9IrwEUzMjBl",
+                text="sᴜᴘᴘᴏʀᴛ ☚", url="https://t.me/+PmkvU8Mrz3IyMjNl",
             ),
         ],
         [
@@ -79,7 +79,7 @@ def stream_markup_timer(_, chat_id, played, dur):
                  text="☘ sᴏᴜʀᴄᴇ ☘", url=f"https://github.com/TOXICBRAND/BRANDEDKING",
             ),
             InlineKeyboardButton(
-                text="☠ᴄʜᴀɴɴᴇʟ", url=f"https://t.me/+0cccP9IrwEUzMjBl",
+                text="☠ᴄʜᴀɴɴᴇʟ", url=f"https://t.me/sigma_shyar",
             ),
         ],
         [InlineKeyboardButton(text=_["CLOSE_BUTTON"], callback_data="close")],
@@ -98,10 +98,10 @@ def stream_markup(_, chat_id):
         ],
         [
             InlineKeyboardButton(
-                text="☙ ɴɪᴄᴋ", url="https://t.me/MR_TOXIC_BGMI",
+                text="☙ ɴɪᴄᴋ", url="https://t.me/HAUNTED_NICK",
             ),
             InlineKeyboardButton(
-                text="sᴜᴘᴘᴏʀᴛ ☚", url="https://t.me/+0cccP9IrwEUzMjBl",
+                text="sᴜᴘᴘᴏʀᴛ ☚", url="https://t.me/+PmkvU8Mrz3IyMjNl",
             ),
         ],
         [
@@ -109,7 +109,7 @@ def stream_markup(_, chat_id):
                 text="☘ sᴏᴜʀᴄᴇ ☘", url=f"https://github.com/TOXICBRAND/BRANDEDKING",
             ),
             InlineKeyboardButton(
-                text="☠ ᴄʜᴀɴɴᴇʟ", url=f"https://t.me/+0cccP9IrwEUzMjBl",
+                text="☠ ᴄʜᴀɴɴᴇʟ", url=f"https://t.me/sigma_shyar",
             ),
         ],
         [InlineKeyboardButton(text=_["CLOSE_BUTTON"], callback_data="close")],
