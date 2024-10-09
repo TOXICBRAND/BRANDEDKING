@@ -7,11 +7,11 @@ from pyrogram import filters
 load_dotenv()
 
 # Get this value from my.telegram.org/apps
-API_ID = int(getenv("API_ID", "28056992"))
-API_HASH = getenv("API_HASH", "961b7eeca8bc4a745d8c176d9ec69391")
+API_ID = int(getenv("API_ID", "27781463"))
+API_HASH = getenv("API_HASH", "042e38f43fcaf4fc8035de9be0c930a8")
 
 # Get your token from @BotFather on Telegram.
-BOT_TOKEN = getenv("6727924229:AAFvGO0qrOLDAYDdla_GG-UrSiNhQ76pquc")
+BOT_TOKEN = getenv("7628056885:AAGlezrNbkgNDk7Id0jGjdYhaHcGdqEtKYA")
 
 # Get your mongo url from cloud.mongodb.com
 MONGO_DB_URI = getenv("mongodb+srv://BrandedSupportGroup:BRANDED_WORLD@cluster0.v4odcq9.mongodb.net/?retryWrites=true&w=majority", None)
@@ -19,10 +19,10 @@ MONGO_DB_URI = getenv("mongodb+srv://BrandedSupportGroup:BRANDED_WORLD@cluster0.
 DURATION_LIMIT_MIN = int(getenv("DURATION_LIMIT", 600))
 
 # Chat id of a group for logging bot's activities
-LOG_GROUP_ID = int(getenv("-1002181900817", None))
+LOG_GROUP_ID = int(getenv("-1002295551724", None))
 
 # Get this value from @BRANDRD_ROBOT on Telegram by /id
-OWNER_ID = int(getenv("7247700683", ""))
+OWNER_ID = int(getenv("7099933373", ""))
 
 ## Fill these variables if you're deploying on heroku.
 # Your heroku app name
@@ -39,8 +39,8 @@ GIT_TOKEN = getenv(
     "GIT_TOKEN", None
 )  # Fill this variable if your upstream repository is private
 
-SUPPORT_CHANNEL = getenv("SUPPORT_CHANNEL", "https://t.me/+bR4T-UUKXmNlNjhl")
-SUPPORT_CHAT = getenv("SUPPORT_CHAT", "https://t.me/+bR4T-UUKXmNlNjhl")
+SUPPORT_CHANNEL = getenv("SUPPORT_CHANNEL", "https://t.me/+_qPchBV5z4VjMjM1")
+SUPPORT_CHAT = getenv("SUPPORT_CHAT", "https://t.me/+_qPchBV5z4VjMjM1")
 
 # Set it in True if you want to leave your assistant after a certain amount of time. [Set time via AUTO_LEAVE_ASSISTANT_TIME]
 AUTO_LEAVING_ASSISTANT = getenv("AUTO_LEAVING_ASSISTANT", None)
@@ -67,7 +67,7 @@ TG_VIDEO_FILESIZE_LIMIT = int(getenv("TG_VIDEO_FILESIZE_LIMIT", 1073741824))
 
 
 # Get your pyrogram v2 session from @BRANDEDSTRINGSESSION_BOT on Telegram
-STRING1 = getenv("BQGsHaAAirEw4Xt4Zx8X6D9FOp8YUdCKSAK-G-kCruRjjouE4HpmuLjAF843BDwC3VBNOhln_pJycKpRp5W8xPSHtIDV-61e9Y2eF18d8tQksyCDvc69f1aauIypZpf4o6M2fUUz6Ng3lOqGuK4C8g588_sBvDzGqcUIN7-qYbw45Bpi0ekUhKO1EtalM1uWfYHcBG3Bw92YkR2iNwD8oR79gLFy7tOxH6vGJRbBkhO5SwmKD933PERWVUfjziGLQbRgLB9g9kzz33hfGUy8IN-jj7OyFxAbPyTFbkL7S3nH3LDHyA8kkElXzghz3xS-fR0lNvW1CoLFZb3nS-KOD0az8w4c3AAAAAGv_yLLAA", None)
+STRING1 = getenv("BQGn6VcApbnL1Uy8dxAEqUsljvTuQKI-TkMlN1_wFoxNG2kpylOWzyVOHqrC8kyVW14qiatGjMCslTh1PulCDd-ueiy1VKS4wkBsGdzM4e0QzaKNVJYgYHgeUMnsDhCHkIMOx-9XM68vNr0PYsEvmtlwwIXrRFvDH04Jk2w4jpM1Lwabf8v0hzKUegNt2B1XA_OkNM0ocpK37xlKl8qiwoyRljzQHgEWu-2pBKFiIKAUR9quu_uNzYREVfOHbclC-5i3wE4fs4wP21xGmcRcjSU6MAogky1vFPBcjPMfZpI46FWW_w8Q_3K6DWxZ_nILvZBgIDIkvN1rqTxdeQY5djo7IBjXIQAAAAGnMGK9AA", None)
 STRING2 = getenv("STRING_SESSION2", None)
 STRING3 = getenv("STRING_SESSION3", None)
 STRING4 = getenv("STRING_SESSION4", None)
